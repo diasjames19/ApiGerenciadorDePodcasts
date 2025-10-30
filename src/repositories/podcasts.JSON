@@ -1,0 +1,79 @@
+{
+  "podcasts": [
+    {
+      "titulo": "Tecnologia Sem Complicação",
+      "descricao": "Um podcast que explica conceitos de tecnologia e programação de forma simples para iniciantes.",
+      "categoria": "Tecnologia",
+      "episodios": [
+        {
+          "titulo": "Entendendo APIs",
+          "link_video": "https://www.youtube.com/watch?v=Wx1H4V6I_mw"
+        },
+        {
+          "titulo": "O que é Cloud Computing?",
+          "link_video": "https://www.youtube.com/watch?v=3hLmDS179YE"
+        }
+      ]
+    },
+    {
+      "titulo": "Histórias do Mundo",
+      "descricao": "Narrativas sobre eventos históricos marcantes contadas de forma clara e envolvente.",
+      "categoria": "História",
+      "episodios": [
+        {
+          "titulo": "A Queda do Império Romano",
+          "link_video": "https://www.youtube.com/watch?v=6q4nZqV0n5Q"
+        },
+        {
+          "titulo": "A Revolução Francesa",
+          "link_video": "https://www.youtube.com/watch?v=Pb4n2nDCtZI"
+        }
+      ]
+    },
+    {
+      "titulo": "Vida Saudável",
+      "descricao": "Dicas práticas para manter corpo e mente equilibrados no dia a dia.",
+      "categoria": "Saúde e Bem-estar",
+      "episodios": [
+        {
+          "titulo": "Como Criar Rotina Saudável",
+          "link_video": "https://www.youtube.com/watch?v=F4Zu5ZZAG7I"
+        },
+        {
+          "titulo": "Alimentos que Melhoram o Humor",
+          "link_video": "https://www.youtube.com/watch?v=3sSxwqkN5Sg"
+        }
+      ]
+    },
+    {
+      "titulo": "Negócios & Estrategias",
+      "descricao": "Insights sobre empreendedorismo, gestão, vendas e liderança.",
+      "categoria": "Negócios",
+      "episodios": [
+        {
+          "titulo": "Como Validar uma Ideia de Negócio",
+          "link_video": "https://www.youtube.com/watch?v=0n3-Yf2E1Vg"
+        },
+        {
+          "titulo": "Marketing que Gera Resultados",
+          "link_video": "https://www.youtube.com/watch?v=lJX8K1EreZg"
+        }
+      ]
+    },
+    {
+      "titulo": "Mundo Gamer",
+      "descricao": "Notícias, análises e curiosidades sobre o universo dos games.",
+      "categoria": "Entretenimento",
+      "episodios": [
+        {
+          "titulo": "Os Jogos Mais Aguardados do Ano",
+          "link_video": "https://www.youtube.com/watch?v=ukbHWo4wGZ8"
+        },
+        {
+          "titulo": "A Evolução dos Consoles",
+          "link_video": "https://www.youtube.com/watch?v=V1eYk-7iN6E"
+        }
+      ]
+    }
+  ]
+}
